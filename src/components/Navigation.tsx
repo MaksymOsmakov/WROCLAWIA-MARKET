@@ -17,7 +17,7 @@ const Navigation: React.FC<navigationProps> = () => {
 				<BurgerMenu />
 
 				<div className='flex'>
-					<span>WROCLAVIA MARKER</span>
+					<span>WROCLAVIA MARKET</span>
 					<a href="https://fakestoreapi.com/" target='_blank' rel="noreferrer">
 						<img src="https://fakestoreapi.com/icons/logo.png" alt="logo" className=' ml-2 mt-[-5px] h-9 w-9' />
 					</a>
