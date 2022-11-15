@@ -1,0 +1,6 @@
+export const blog = [
+	{ id: 1, title: 'We are open', description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, repellendus fugit maxime fuga hic cupiditate quas facilis distinctio sunt blanditiis molestias id expedita.', date: '10.10.22', tag: '#news #all', img: 'https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8b3BlbiUyMHNob3B8ZW58MHx8MHx8&w=1000&q=80' },
+	{ id: 2, title: 'Lorem', description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, repellendus fugit maxime fuga hic cupiditate quas facilis distinctio sunt blanditiis molestias id expedita.', date: '10.10.22', tag: '#awards #all', img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_dM3zvmTwE_LhblesISu24a_qmAWuWbLGcsou9PiKt-OwryOHRv7oSj_MF-8zA9YhbA&usqp=CAU' },
+	{ id: 3, title: 'Lorem', description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, repellendus fugit maxime fuga hic cupiditate quas facilis distinctio sunt blanditiis molestias id expedita.', date: '10.10.22', tag: '#news #all', img: 'https://cdn2.mhpbooks.com/2014/03/test_ttp_big.jpg' }
+	
+]
